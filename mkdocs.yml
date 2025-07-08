@@ -2,6 +2,10 @@ site_name: SEFGH-AI Docs
 site_url: https://docs.sefgh.org/
 nav:
   - Home: index.md
+  - Getting Started: getting-started.md
+  - Search Engine Architecture: architecture.md
+  - Customization Guide: customization.md
+  - API Reference: api-reference.md
 
 theme:
   name: material  # or 'readthedocs' or other supported themes
