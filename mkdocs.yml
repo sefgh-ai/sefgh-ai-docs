@@ -9,6 +9,7 @@ nav:
 
 theme:
   name: material  # or 'readthedocs' or other supported themes
+  favicon: favicon.png
 
 markdown_extensions:
   - toc:
