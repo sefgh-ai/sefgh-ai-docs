@@ -32,7 +32,7 @@ jobs:
       - name: Deploy to host-docs branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GH_PAT }}
+          personal_token: ${{ secrets.GH_PAT }}
           publish_dir: ./site
           publish_branch: host-docs
           force_orphan: true
