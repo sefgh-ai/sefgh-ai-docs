@@ -4,7 +4,7 @@ nav:
   - Home: index.md
 
 theme:
-  name: material  # or 'readthedocs' or other supported themes
+  name: mkdocs  # or 'readthedocs' or other supported themes
 
 markdown_extensions:
   - toc:
