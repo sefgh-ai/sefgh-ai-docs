@@ -21,7 +21,7 @@ The SEFGH-AI Playground lets you explore, tweak, and run a powerful search engin
 - [Getting Started](getting-started.md)
 - [Search Engine Architecture](architecture.md)
 - [Customization Guide](customization.md)
-- [API Reference](api.md)
+- [API Reference](api-reference.md)
 
 ## 💡 Tip
 
