@@ -1,0 +1,14 @@
+site_name: SEFGH-AI Docs
+site_url: https://sefgh-ai.readthedocs.io/
+nav:
+  - Home: index.md
+
+theme:
+  name: material  # or 'readthedocs' or other supported themes
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+# Optional - If your docs are not in the root directory
+docs_dir: docs
