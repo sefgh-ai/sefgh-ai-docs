@@ -7,6 +7,7 @@ This guide helps you set up SEFGH-AI Playground locally or in the cloud, with mi
 - Python 3.8+
 - pip
 - Git
+- llm
 
 ## Quick Start
 
